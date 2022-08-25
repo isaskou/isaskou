@@ -10,7 +10,7 @@ I'm a fullstack developper with experience in .NET and Angular.
     :one: Algorithm and python<br/>
     :two: .NET and Angular<br/>
     3️⃣ .NET with BI and Sharepoint Specialization <br/>
-    4️⃣ Job, Job, Job ... <br/>
+    4️⃣ Project Management (Prince 2, Agile Scrum)<br/>
   </ul>
 </ul>
 
